@@ -1,6 +1,8 @@
 # Hi there 👋, I'm Akshay Patnaik
 #### Computer science student
-I'm Akshay, and I am an undergrad computer science student at the University of Colorado Boulder. I am open to learning anything and everything. I am interested in learning new programming languages, web design, data management, and many other subjects in this huge industry.
+I'm Akshay, and I am an undergrad computer science student at the University of Colorado Boulder. I am open to learning anything and everything. I am interested in learning new programming languages, web design, data management, and many other subjects in this huge industry. 
+
+Personal Projects coming soon!
 
 ## Skills and Experience:
 * ☕️ Java
