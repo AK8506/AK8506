@@ -7,11 +7,11 @@ I am an undergrad computer science student at the University of Colorado Boulder
 [Powder Junkie](https://github.com/AK8506/CSCI-3308-Project)
 
 ## Skills and Experience:
-* ☕️ Java
+* Java
 * JavaScript
 * PostgreSQL
-* 💻 C++
-* 🕊️ Swift
+* C++
+* Swift
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AK8506&layout=compact&theme=dark)
